@@ -6,7 +6,7 @@
 
 #if __cplusplus >= 201703L
 
-#include "raffer/string.hpp"
+#include "raffer/string/string.hpp"
 
 
 namespace raffer // implementation
